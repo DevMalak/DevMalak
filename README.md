@@ -14,16 +14,36 @@ I'm a fresh graduate passionate about technology and software development. I rec
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: [e.g., ASP.NET Core, Node.js, Django]
 - **Database**: SQL Server
+
 ### Tools & Technologies
 - Version Control: Git, GitHub
 - IDEs: Visual Studio, VS Code
 - Other: [Any other tools you know]
+  
 ## :books: What I'm Currently Learning
 - [Technology/Framework you're learning]
-- [Another skill you're developing]
-- [Course or certification you're pursuing]
+- C#
+- GitHub
+- Slack
+- SQL
+- DBMS
+
+  
+- [skill you're developing]
+- Time managment
+- Problem solving skills
+- Ability to work under pressure
+- Collaboration and delegation
+
+  
+- [Courses/Certificates]
+- [Computer network course , java , Mat lab , Design of IoT based system using particle photon microcontroller]
+
+  
 ## :telescope: Projects
-[any projects you finished before]
+[IOT BASED SMART AND EFFICIENT EMERGENCY SYSTEM USING AUTONOMOUS GUIDING ROPOTS]
+
+
 ## :mailbox: How to Reach Me
 - Email: [mkmalaufi@gmail.com]
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [https://www.linkedin.com/in/malak-al-oufi-55b60b223]
